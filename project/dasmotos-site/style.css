@@ -3,11 +3,16 @@
   font-size: 100px;
   font-weight: bold;
   color: khaki;
-  background-image: url("./images/pattern.jpg");
   text-align: center;
+  background-image: url("./images/pattern.jpeg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 120px;
 }
 
-section {
+h2 {
   font-family: "Helvetica";
   font-size: 32px;
   font-weight: bold;
